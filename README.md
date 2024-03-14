@@ -16,4 +16,6 @@ Window 10 Pro
 ## 2D 이미지 정보
 스트리머 케인님
 
+# 게임 플레이 영상
+https://www.youtube.com/watch?v=Rj_j5fPwMLg
 
